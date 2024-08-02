@@ -23,4 +23,9 @@ The Arduino circuit :
 
 3- Write the Arduino Code.
 
+output:
+![Screenshot 2024-08-02 224514](https://github.com/user-attachments/assets/002d15c8-d7a9-42f8-bf47-842001aecd4b)
+
+![Screenshot 2024-08-02 224541](https://github.com/user-attachments/assets/9aa9b222-ab94-4ea0-99e1-9872812c958f)
+
 https://wokwi.com/projects/404746178936144897
